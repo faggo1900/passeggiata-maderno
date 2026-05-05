@@ -1,0 +1,333 @@
+{  
+  "itinerari": [
+    {
+      "id": "maderno_architetti_fagiani",
+      "nome": "La Nascita della Roma Barocca",
+      "sottotitolo": "Palazzi, cupole e grandi visioni: l'impronta di Carlo Maderno sulla Città Eterna",
+      "personaggio": {
+        "nome": "Carlo Maderno",
+        "anni": "1556-1629",
+        "professione": "Architetto",
+        "nazionalita": "Italiana",
+        "biografia_breve": "Carlo Maderno è l'architetto considerato il vero iniziatore del Barocco romano. Giunto nell'Urbe giovanissimo, grazie alla sua eccezionale visione ingegneristica divenne in breve tempo l'architetto di punta dei papi del primo Seicento. Il suo merito storico fondamentale è stato quello di superare la rigidità del Rinascimento, introducendo nell'architettura un nuovo linguaggio fatto di grandiosità, dinamismo e monumentalità che ha cambiato per sempre il volto della Capitale.",
+        "immagine": "img/maderno.jpg",
+        "opere_correlate": [
+          "Facciata di Santa Susanna (1603)",
+          "Palazzo Mattei di Giove (1598-1611)",
+          "Progetto iniziale per Palazzo Barberini (1625)"
+        ]
+      },
+      "tema": "Architettura Barocca - La Transizione dal Rinascimento",
+      "categoria": "Arte e Architettura",
+      "durata_totale_ore": 8,
+      "difficolta": "media",
+      "immagine_copertina": "img/maderno.jpg",
+      "distanza_totale_km": 3.5,
+      "periodo_consigliato": "Tutto l'anno (consigliata la mattina, intorno alle 10 per sfruttare la luce naturale all'interno della Galleria Doria Pamphilj)",
+      "stagione_migliore": ["marzo", "aprile", "maggio", "settembre", "ottobre", "novembre"],
+      "descrizione": "Un viaggio di un'intera giornata nel cuore di Roma per scoprire l'impronta di Maderno. Dai palazzi privati del centro storico fino al grandioso trionfo barocco della Basilica di San Pietro.", 
+      "note_logistiche": "Iniziare per le 10:00 per sfruttare la luce naturale interna della Galleria Doria Phampilj.Il percorso prevede una pausa pranzo in centro (12:30-15:00) in attesa della riapertura di Sant'Ignazio, per poi spostarsi verso il Vaticano nel tardo pomeriggio.",
+      "accessibilita": "Centro storico pedonale. Per l'ultima tappa (San Pietro) è consigliato l'autobus (es. linea 64) se non si desidera percorrere gli ultimi 2 km a piedi.",
+      "costo_stimato": "Circa 17€ per la Galleria Doria Pamphilj; l'ingresso a tutte le chiese e alla Basilica di San Pietro è gratuito.",
+      "tappe": [
+        {
+          "numero": 1,
+          "poi_id": "galleria_doria_pamphilj",
+          "orario_consigliato": "10:00",
+          "momento_giornata": "mattino",
+          "durata_visita_min": 75,
+          "coordinate": [41.8986, 12.4811],
+          "nome": "Galleria Doria Pamphilj",
+          "descrizione_breve": "Entrare nel cuore del palazzo focalizzandosi sul cortile per capire come il genio di Maderno ha iniziato a scardinare le rigide regole del Rinascimento.",
+          "indicazioni_arrivo": "Inizio dell'itinerario su Via del Corso, vicino a Piazza Venezia.",
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "I. Adagio - Allegro",
+              "brano_completo": "Concerto Grosso Op. 6 No. 4 in Re Maggiore",
+              "compositore": "Arcangelo Corelli",
+              "durata_sec": 480,
+              "tonalita": "Re maggiore",
+              "organico": "Due violini, violoncello (concertino) e orchestra d'archi",
+              "anno_composizione": 1714,
+              "descrizione_musicale": "Arcangelo Corelli visse a Roma e lavorò proprio al servizio della famiglia Pamphilj. L'eleganza maestosa e la perfetta simmetria di questo concerto riflettono in modo ideale l'armonia delle arcate del cortile progettato da Maderno.",
+              "spotify_url": "audio/galleria_doria_pamphilj.mp3",
+              "youtube_url": "https://www.youtube.com/watch?v=6-uDRK1cBbU",
+              "note_ascolto": "Indossa le cuffie e fai partire il brano intero non appena varchi il portone principale, passeggiando sotto i porticati lasciandoti guidare dal ritmo degli archi."
+            },
+            "letteratura": {
+              "citazione": "Le sue fabbriche(fabbrica deriva direttamente dal latino fabrica, che indica l'arte di costruire) sono molto onorate, e rendono la Città di Roma assai più bella.",
+              "autore": "Giovanni Baglione",
+              "opera": "Le vite de' pittori, scultori et architetti",
+              "anno": 1642,
+              "contesto": "Il celebre biografo seicentesco elogia l'impatto monumentale e l'eleganza che i lavori di Maderno ebbero sull'aspetto dei palazzi e delle strade di Roma."
+            },
+            "atmosfera": {
+              "momento": "mattina",
+              "luce": "Luce chiara e naturale che taglia trasversalmente il cortile, esaltando il colore del travertino",
+              "suoni_ambiente": [
+            "eco dei passi sotto le arcate monumentali",
+            "rumore della città ovattato dalle spesse mura del palazzo",
+            "le note eleganti degli archi di Corelli in cuffia"
+          ],
+          "temperatura_stimata": "Clima interno gradevole (18-22°C)",
+          "affollamento": "Basso/Moderato (primi turisti della giornata)",
+          "consiglio_fotografico": "Posizionati al centro esatto di un lato del porticato e sfrutta la linea di fuga delle colonne per ottenere uno scatto simmetrico da manuale.",
+          "emozione_target": "Ammirazione, eleganza, tuffo nel passato"
+        },
+            "arte_visiva": {
+             "stile_architettonico": "Tardo Rinascimento / Protobarocco",
+             "architetti": ["Carlo Maderno", "Antonio del Grande"],
+             "anno_costruzione": "1601-1605",
+             "committente": "Cardinale Pietro Aldobrandini",
+             "descrizione": "Il cortile di Maderno rappresenta un momento chiave dell'architettura romana, dove la severità delle forme cinquecentesche inizia a fondersi con una nuova sensibilità per gli effetti scenografici e di luce."
+            }
+          },
+          "storia": "Acquistato dai Pamphilj nel 1647, il palazzo conserva l'impronta di Maderno nel suo nucleo originario, testimonianza dell'espansione monumentale delle grandi famiglie cardinalizie del XVII secolo.",
+          "curiosita": "Arcangelo Corelli, autore del brano che stai ascoltando, visse e lavorò qui sotto la protezione del cardinale Benedetto Pamphilj.",
+          "metadata": {
+           "accessibilita": "ingresso a pagamento (€17)",
+           "orari_standard": "09:00-19:00 (ultimo ingresso ore 18:00)",
+           "servizi": ["audioguida inclusa", "bookshop", "caffetteria"]
+      }
+    },
+        {
+          "numero": 2,
+          "poi_id": "basilica_sant_andrea_della_valle",
+          "orario_consigliato": "11:30",
+          "momento_giornata": "mezzogiorno",
+          "durata_visita_min": 45,
+          "coordinate": [41.8961, 12.4744],
+          "nome": "Basilica di Sant'Andrea della Valle",
+          "descrizione_breve": "La sfida al cielo di Roma: entra per ammirare la vertiginosa cupola, capolavoro assoluto di ingegneria e luce.",
+          "indicazioni_arrivo": "Da Via del Corso, svolta a destra su Via del Plebiscito e prosegui fino a Corso Vittorio Emanuele II.",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "10 min",
+            "metro": "Non necessaria (meglio a piedi)",
+            "distanza_km": 0.7
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "Toccata Quinta",
+              "brano_completo": "Il secondo libro di toccate: Toccata Quinta",
+              "compositore": "Girolamo Frescobaldi",
+              "durata_sec": 280,
+              "tonalita": "Sol maggiore",
+              "descrizione_musicale": "Una composizione d'organo solenne e virtuosistica. Le note gravi e potenti riempiono l'immenso volume della navata, riflettendo la verticalità e la maestosità della cupola di Maderno.",
+              "strumenti_protagonisti": ["Organo a canne"],
+              "carattere": "Solenne, monumentale, trascendentale",
+              "spotify_url": "audio/basilica_sant_andrea_della_valle.mp3",
+              "youtube_url": "https://youtu.be/1CKkZ_Nv1FQ?si=nyJggtDKQ9p3zIxz",
+              "note_ascolto": "Fai partire il brano e cammina lentamente verso il centro della chiesa (sotto la cupola): segui con lo sguardo l'ascesa delle note verso la lanterna luminosa."
+            },
+            "letteratura": {
+              "citazione": "La cupola di Sant'Andrea è la più bella che sia in Roma dopo quella di San Pietro.",
+              "autore": "Francesco Milizia",
+              "opera": "Memorie degli architetti antichi e moderni",
+              "anno": 1785,
+              "contesto": "L'illustre teorico descrive la perfezione delle linee di Maderno, che riuscì a sfidare il primato michelangiolesco con una struttura di incredibile slancio."
+            },
+            "atmosfera": {
+              "momento": "tarda mattina",
+              "luce": "Luce verticale che scende dalla lanterna, creando fasci luminosi che esaltano gli stucchi dorati",
+              "suoni_ambiente": [
+                "eco profonda della navata",
+                "sussurri di preghiera",
+                "vibrazione delle canne dell'organo in lontananza"
+              ],
+              "temperatura_stimata": "Fresco monumentale (16-18°C)",
+              "affollamento": "Moderato",
+              "consiglio_fotografico": "Usa un grandangolo per catturare l'intera cupola dal basso verso l'alto; la simmetria dei pennacchi è straordinaria da quella posizione.",
+              "emozione_target": "Vertigine, sacralità, stupore"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Tardo Rinascimento / Barocco",
+              "scultore": ["Carlo Maderno", "Giacomo della Porta"],
+              "anno_costruzione": "1608-1623",
+              "committente": "Cardinale Alessandro Peretti di Montalto",
+              "materiali": "Travertino, laterizio e marmi policromi",
+              "altezza_m": 80,
+              "descrizione": "In questa basilica Maderno definisce lo standard della chiesa barocca: completa la vasta navata unica e il transetto, curando l'innesto perfetto tra la struttura longitudinale e l'area del coro, garantendo una spazialità solenne e una visibilità totale dell'altare."
+            }
+          },
+          "storia": "La basilica, costruita per l'ordine dei Teatini, vide in Maderno il protagonista assoluto che ne diresse i lavori per quindici anni, completando la navata e la grandiosa cupola.",
+          "curiosita": "Durante la costruzione, i romani erano così spaventati dall'altezza e dalla 'sottigliezza' della struttura che temevano un crollo imminente. Maderno dovette difendere pubblicamente i suoi calcoli innovativi, che si rivelarono così precisi da resistere perfettamente per oltre quattro secoli.",
+          "metadata": {
+            "accessibilita": "ingresso gratuito",
+            "orari_standard": "07:30-13:00 / 16:30-20:00",
+            "servizi": ["visite guidate", "area monumentale", "bar nelle vicinanze"]
+          }
+        },
+        {
+          "numero": 3,
+          "poi_id": "chiesa_sant_ignazio_loyola",
+          "orario_consigliato": "15:00",
+          "momento_giornata": "pomeriggio",
+          "durata_visita_min": 45,
+          "coordinate": [41.8992, 12.4798],
+          "nome": "Chiesa di Sant'Ignazio di Loyola",
+          "descrizione_breve": "Dove l'architettura diventa magia: le grandiose proporzioni pensate da Maderno fanno da palcoscenico a un'incredibile finta cupola dipinta.",
+          "indicazioni_arrivo": "Dopo la pausa pranzo, ritorno verso Piazza di Sant'Ignazio. scendendo per Via del Tritone.",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "8 min",
+            "distanza_km": 0.6
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "I. Gloria in excelsis Deo",
+              "brano_completo": "Gloria in D Major, RV 589",
+              "compositore": "Antonio Vivaldi",
+              "durata_sec": 145,
+              "tonalita": "Re maggiore",
+              "descrizione_musicale": "Un'esplosione di gioia barocca che riempie istantaneamente lo spazio. Il ritmo incalzante degli archi e il coro riflettono la dinamicità delle decorazioni dorate e dei marmi policromi.",
+              "citazioni_famose": "Utilizzato innumerevoli volte in ambito cinematografico e televisivo come simbolo supremo dello splendore barocco italiano.",
+              "carattere": "Trionfale, radioso, monumentale",
+              "spotify_url": "audio/chiesa_sant_ignazio_loyola.mp3",
+              "youtube_url": "https://youtu.be/WZZM9jbYBtU?si=j3SKUKbuKSJsrtIO",
+              "note_ascolto": "Fai partire il brano mentre ti avvicini al disco dorato al centro della navata: il crescendo musicale aumenterà l'impatto visivo della prospettiva dipinta."
+            },
+            "letteratura": {
+              "citazione": "Questa chiesa è un teatro dove la religione si serve dell'arte per rapire l'anima attraverso i sensi.",
+              "autore": "Charles de Brosses",
+              "opera": "Lettres familières sur l'Italie",
+              "anno": 1739,
+              "contesto": "Il colto viaggiatore francese descrive lo stupore di fronte alla capacità dei gesuiti di fondere architettura e pittura in un'unica illusione totale."
+            },
+            "cinema": {
+              "film": "La Grande Bellezza",
+              "regista": "Paolo Sorrentino",
+              "anno": 2013,
+              "scena": "I monumenti e le chiese monumentali che fanno da sfondo alle passeggiate notturne di Jep Gambardella.",
+              "descrizione": "Sebbene non sia la protagonista di una singola azione, la Chiesa di Sant'Ignazio incarna perfettamente quella bellezza barocca e 'teatrale' che il film celebra in ogni inquadratura di Roma."
+            },
+            "atmosfera": {
+              "momento": "pomeriggio",
+              "luce": "Luce calda pomeridiana che colpisce l'altare, lasciando la navata in un chiaroscuro che favorisce l'illusione ottica",
+              "suoni_ambiente": [
+                "eco dei passi sul marmo",
+                "silenzio solenne che amplifica la musica in cuffia"
+              ],
+              "temperatura_stimata": "Clima mite e asciutto (19-21°C)",
+              "affollamento": "Medio/Alto (punto molto fotografato)",
+              "consiglio_fotografico": "Non fotografare subito. Vai al disco dorato, guarda in alto, aspetta che la luce sia ferma e poi scatta: la cupola sembrerà vera.",
+              "emozione_target": "Meraviglia, incredulità, estasi visiva"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Barocco Maturo",
+              "architetto": "Orazio Grassi (con la supervisione e i disegni di Carlo Maderno)",
+              "scultori": ["Alessandro Algardi", "Bernardino Ludovisi"],
+              "anno_costruzione": "1626-1650",
+              "committente": "Cardinale Ludovico Ludovisi",
+              "dimensioni": "Lunghezza 84m, Larghezza 43m, Altezza volta 32m",
+              "descrizione": "Il contributo di Maderno è fondamentale nella definizione della stabilità strutturale: la sua revisione tecnica permise di sostenere l'enorme volta a botte e di impostare il ritmo solenne delle cappelle laterali, creando quel volume immenso che è la precondizione necessaria per l'illusione ottica successiva."
+            }
+          },
+          "storia": "Eretta per commemorare la canonizzazione di Ignazio di Loyola, la chiesa divenne il manifesto dell'ordine dei Gesuiti, unendo il rigore strutturale (curato da Maderno e Grassi) alla meraviglia decorativa.",
+          "curiosita": "Il disco dorato sul pavimento della navata indica l'unico punto di vista perfetto: spostandosi di pochi centimetri, la cupola rivela la sua natura piatta e l'inganno si svela.",
+          "leggende": [
+            "Si dice che la cupola sia finta perché i frati del vicino convento della Minerva temevano che una vera cupola avrebbe tolto il sole alla loro biblioteca.",
+            "L'affresco del soffitto è così profondo che si narra che alcuni visitatori del Seicento svenissero per la vertigine provocata dall'illusione."
+          ],
+          "metadata": {
+            "accessibilita": "ingresso gratuito",
+            "orari_standard": "09:00-19:00 (chiusura 12:30-15:00)",
+            "servizi": ["illuminazione a gettoni", "visite guidate", "audioguida"],
+            "warning": "Osservare rigorosamente il silenzio e non scattare foto con flash per preservare i delicati colori degli affreschi."
+          }
+        },
+        {
+          "numero": 4,
+          "poi_id": "basilica_san_pietro",
+          "orario_consigliato": "16:30",
+          "momento_giornata": "pomeriggio",
+          "durata_visita_min": 90,
+          "coordinate": [41.9022, 12.4539],
+          "nome": "Basilica di San Pietro",
+          "descrizione_breve": "Il capolavoro definitivo di Maderno: la colossale facciata in travertino e la lunghissima navata che segnano l'apoteosi del Barocco.",
+          "indicazioni_arrivo": "Da Sant'Ignazio procedere a piedi attraversando il Tevere, oppure prendere il Bus 64 da Largo Argentina.",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "35 min",
+            "metro_piedi": "20 min (con Bus 64)",
+            "distanza_km": 2.2
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "Versiculum: Deus in adiutorium meum intende",
+              "brano_completo": "Vespro Della Beata Vergine - Deus In Audiutorium",
+              "compositore": "Claudio Monteverdi",
+              "durata_sec": 130,
+              "tonalita": "Re maggiore",
+              "descrizione_musicale": "L'apertura splendente dei Vespri del 1610 annuncia la grandezza divina, riflettendo perfettamente la potenza visiva della facciata di Maderno al primo impatto.",
+              "carattere": "Imponente, sfarzoso, solenne",
+              "citazioni_famose": "Considerato il vertice assoluto della musica sacra del primo Seicento europeo.",
+              "spotify_url": "audio/basilica_san_pietro.mp3",
+              "youtube_url": "https://youtu.be/FHxLnZITSRw?si=6V8UzcSX81_JCGpE",
+              "note_ascolto": "Fai partire il brano mentre percorri Via della Conciliazione: il ritmo delle trombe deve scandire i tuoi passi verso la facciata monumentale."
+            },
+            "letteratura": {
+              "citazione": "Senza aver veduto la Chiesa di San Pietro, non si può farsi un’idea di ciò che possa l'uomo.",
+              "autore": "Johann Wolfgang von Goethe",
+              "opera": "Viaggio in Italia",
+              "anno": 1817,
+              "contesto": "Il grande scrittore tedesco descrive lo smarrimento e il senso di onnipotenza che si prova davanti alla vastità del progetto maderniano."
+            },
+            "atmosfera": {
+              "momento": "tramonto",
+              "luce": "Luce calda e radente che incendia il travertino, creando ombre profonde tra le colonne giganti della facciata",
+              "suoni_ambiente": [
+                "scroscio delle fontane gemelle di Piazza San Pietro",
+                "ritocco delle campane per il vespro",
+                "mormorio solenne della folla in preghiera"
+              ],
+              "temperatura_stimata": "15-18°C (clima serale ventilato)",
+              "affollamento": "Alto (pellegrini e turisti al termine della giornata)",
+              "vista_panoramica": "L'intera Piazza San Pietro con il colonnato del Bernini e l'obelisco centrale",
+              "consiglio_fotografico": "Allontanati verso l'obelisco per far rientrare tutta la facciata e la cupola nell'inquadratura durante la 'golden hour'.",
+              "emozione_target": "Sublime, trionfo"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Barocco Incipiente / Monumentale",
+              "architetto": "Carlo Maderno",
+              "anno_costruzione": "1607-1614",
+              "committente": "Papa Paolo V Borghese",
+              "descrizione": "Maderno compie l'impresa titanica di allungare la navata di Michelangelo e innalzare la facciata, trasformando la Basilica da una struttura a pianta centrale a una monumentale croce latina.",
+              "dimensioni": "Larghezza facciata 114,69m; Altezza 48m; Lunghezza interna 186m",
+              "artisti_ospitati": ["Bernini", "Borromini", "Canova", "Michelangelo"]
+            }
+          },
+          "storia": "Completando la facciata nel 1612, Maderno dovette bilanciare la visibilità della cupola con la necessità di una balconata per le benedizioni papali, risolvendo un dilemma architettonico secolare.",
+          "curiosita": "L'iscrizione monumentale sulla facciata reca il nome di Paolo V Borghese a caratteri cubitali, a testimonianza del potere papale che Maderno dovette glorificare con ogni mattone.",
+          "connessione_maderno": "Sebbene vissuto secoli dopo, l'impatto visivo di Maderno influenzò i compositori romani che videro in questa facciata il simbolo eterno della potenza creativa della città.",
+          "metadata": {
+            "accessibilita": "ingresso gratuito (soggetto a controlli di sicurezza)",
+            "orari_standard": "07:00-19:00",
+            "orari_speciali_tramonto": "Consigliata la visita tra le 17:00 e le 18:30 per godere della luce migliore sulla facciata.",
+            "servizi": ["visite guidate", "audioguida", "salita alla cupola", "bookshop ufficiale"]
+          }
+        }
+      ],
+      "mappa_percorso": {
+        "polyline_encoded": "esempio_encoded_string",
+        "colore_percorso": "#8B0000",
+        "stile_linea": "dashed"
+      },
+      "consigli_pratici": [
+        "Abbigliamento consono obbligatorio: spalle e ginocchia coperte per poter entrare nelle chiese e a San Pietro.",
+        "Scarpe comode (l'itinerario prevede di visitare alcune tappe muovendosi a piedi).",
+        "Cuffie o auricolari di buona qualità per godersi a pieno l'esperienza musicale in ogni tappa.",
+        "Sfruttare la lunga pausa pranzo (12:30-15:00) per riposare, comprare dei souvenir,e godersi l'atmosfera e il cibo romano prima del gran finale in Vaticano."
+      ],
+      "migliore_periodo_anno": "Marzo-Maggio o Settembre-Ottobre (luce perfetta per ammirare le facciate e le cupole).",
+      "sconsigliato": [
+    "Piena estate (troppo caldo per camminare nel pomeriggio)",
+    "Domenica mattina (San Pietro e le chiese sono inaccessibili per via delle funzioni religiose)"
+  ],
+      "cosa_portare": [
+        "Smartphone con batteria carica al 100%",
+        "Batteria portatile (powerbank) per arrivare fino al tramonto",
+        "Bottiglia d'acqua (consigliate anche se ci sono molte fontanelle lungo il percorso)",
+        "Documento d'identità (può essere richiesto ai controlli di sicurezza di San Pietro)",
+        "Snack energetici(veloci da mangiare lungo la passeggiata)"
+      ]
+    }
+  ]
+}
